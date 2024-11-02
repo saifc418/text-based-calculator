@@ -72,7 +72,7 @@ Other developers may contribute, edit, or further develop the program, but must 
 
 # Authors and Acknowledgment
 
-**Saif Chaudhry:** Fully developed both the TextBasedCalculator and CSCI221_F24_P1_SaifChaudhry_110124 classes.
+**Saif Chaudhry:** Fully developed both the TextBasedCalculator and Main classes.
 
 # License
 Student Programming Project for College of Charleston

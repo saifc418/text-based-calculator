@@ -1,0 +1,9 @@
+add 5 3
+subtract 10 4
+multiply 7 6
+divide 12 4
+pow 2 3
+sqrt 16
+add -5 -7
+divide 9 0
+sqrt -9

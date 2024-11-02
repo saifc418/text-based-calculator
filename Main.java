@@ -2,7 +2,7 @@ package project1;
 
 import java.util.Scanner;
 
-public class CSCI221_F24_P1_SaifChaudhry_110124 {
+public class Main {
 
 	public static void main(String[] args) {
 

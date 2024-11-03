@@ -2,7 +2,7 @@
 This project is a Text-Based-Calculator in Java. This program accepts user input in the console where they can enter math operations to be computed. The user can also enter the absolute path to a text file containing math operations to be computed. 
 
 # Installation
-Download the two .java files named Main.java and TextBasedCalculator.java. Be sure to uncomment the first line in the .java files containing "package project1;." Change the package name to the name of the package on your local machine, if necessary.
+Download the two .java files named Main.java and TextBasedCalculator.java. Be sure to uncomment the first line in the .java files containing "package textBasedCalculator;." Change the package name to the name of the package on your local machine, if necessary.
 
 # Usage
 To start, run the Main.java file. The user will then be prompted with a welcoming introduction and instructions on how to use the program. When the program prompts "Enter a command: " the user has three options to enter. One option is to enter a direct operation with the format operation num1 num2. For example, "add 5 10." Another example is "sqrt 16." The user may also enter multiple operations on one line. For example, "add 5 10 subtract 25 5." The second option the user may enter is "file." After entering "file" and clicking enter on the keyboard, the user will be prompted to enter the absolute path to a file containing operations. Then, the program will compute the operations. The third option the user may enter is "exit," which will terminate the program and the program will thank the user for using the program.
